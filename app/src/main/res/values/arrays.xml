@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="endpoint_array">
+        <item>dispatch</item>
+        <item>w1</item>
+        <item>w2</item>
+        <item>delivery</item>
+    </string-array>
+</resources>
